@@ -55,15 +55,18 @@ hr {
     padding-top: 80px;
     background-image: url("https://th.bing.com/th/id/R.84fde8a7d89460ed80662fd9618c9d7b?rik=ZjbVywpmDYoHTA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fKuUolRB.png&ehk=RAkbMFpm%2fgAkwsWjyLxThPbJBTi6nxNtntafpRGE3Ys%3d&risl=&pid=ImgRaw&r=0");
     padding-bottom: 61px;
+    text-align : center;
 }
 
 .middle-container {
     margin: 100px 0;
+    text-align : center;
 }
 
 .bottom-container {
     background-color: #66BFBF;
     padding: 50px 0 20px;
+    text-align : center;
 
 }
 
