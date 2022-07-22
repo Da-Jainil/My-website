@@ -110,6 +110,7 @@ hr {
 .contact:hover {
     background: greenyellow;
 }
-nav{
-    text-decoration: none;
+
+li{
+    list-style: none;
 }
